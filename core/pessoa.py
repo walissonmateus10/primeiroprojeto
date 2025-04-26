@@ -20,6 +20,8 @@ class Pessoa:
 
 
             # minha alteracao sem add 2025
-    
-
+    #passo a passo para alterar e salvar o codigo no git
+    #passo 1  "git add ."
+    #passo 2 "git commit - m(depois digite entre aspas duplas)"
+    #passo 3 "git push" salve o codigo crt+s  , e atualize a pagina do navegador aberto em git
         
